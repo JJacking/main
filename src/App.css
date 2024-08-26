@@ -13,6 +13,19 @@
   width: 3%;
 }
 
+.nav-middle {
+  margin-top: auto;
+  margin-left: auto;
+  font-size: 20px;
+  color: black;
+ 
+}
+
+.nav-middle > a {
+  color: black;
+  text-decoration-line: none;
+}
+
 .nav-head {
   background-color: white;
   width: 100%;
@@ -34,7 +47,6 @@
 
 .nav-head > ul > li {
   display: inline-block;
-  
   margin-right: 10px;
 }
 
