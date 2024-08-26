@@ -13,8 +13,9 @@ const Header = () => {
                 <img src={logo} width= '30px' />
             </div>
             <ul>
-                <li><a href='/'>홈</a></li>
-                <li><a href='/board'>게시판</a></li>
+                <li><a href='/'>애견용품</a></li>
+                <li><a href='/board'>커뮤니티</a></li>
+                <li><a href='/board'>내정보</a></li>
             </ul>
 
         </div>
