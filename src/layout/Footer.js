@@ -4,9 +4,11 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <hr/>
-      푸터 입니다.
+      <div className='nav-footer'>
+        푸터 입니다.
+      </div>
     </footer>
+      
   );
 };
 
